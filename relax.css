@@ -1,4 +1,6 @@
-
+body{
+    background-color: greenyellow;
+}
 #div1{
     width: 150px;
     height: 15px;
