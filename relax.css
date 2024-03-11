@@ -1,0 +1,278 @@
+
+#div1{
+    width: 150px;
+    height: 15px;
+    border: 1px solid;
+    border-radius: 20px;
+    rotate: 90deg;
+    position: absolute;
+    left: 100px;
+    top: -100px;
+    animation: anime1 infinite;
+    animation-duration: 5s;
+}
+
+@keyframes anime1 {
+    0%{
+        position: absolute;
+        top: -100px;
+        background-color: red;
+    }
+    100%{
+        position: absolute;
+        top: 850px;
+        background-color: blue;
+    }
+}
+
+#div2{
+    width: 150px;
+    height: 15px;
+    border: 1px solid;
+    border-radius: 20px;
+    rotate: 90deg;
+    position: absolute;
+    left: 200px;
+    animation: anime2 infinite;
+    animation-duration: 7s;
+}
+
+@keyframes anime2 {
+    0%{
+        position: absolute;
+        top: -220px;
+        background-color: green;
+    }
+    100%{
+        position: absolute;
+        top: 850px;
+        background-color: black;
+    }
+}
+
+#div3{
+    width: 150px;
+    height: 15px;
+    border: 1px solid;
+    border-radius: 20px;
+    rotate: 90deg;
+    position: absolute;
+    left: 338px;
+    animation: anime3 infinite;
+    animation-duration: 5s;
+}
+
+@keyframes anime3 {
+    0%{
+        position: absolute;
+        top: -270px;
+        background-color: rgb(197, 240, 7);
+    }
+    100%{
+        position: absolute;
+        top: 850px;
+        background-color: rgb(36, 36, 151);
+    }
+}
+
+
+
+#div5{
+    width: 150px;
+    height: 15px;
+    border: 1px solid;
+    border-radius: 20px;
+    rotate: 90deg;
+    position: absolute;
+    left: 490px;
+    animation: anime5 infinite;
+    animation-duration: 4s;
+}
+
+@keyframes anime5 {
+    0%{
+        position: absolute;
+        top: -80px;
+        background-color: rgb(49, 221, 52);
+    }
+    100%{
+        position: absolute;
+        top: 850px;
+        background-color: rgb(14, 167, 198);
+    }
+}
+
+#div6{
+    width: 150px;
+    height: 15px;
+    border: 1px solid;
+    border-radius: 20px;
+    rotate: 90deg;
+    position: absolute;
+    left: 620px;
+    animation: anime6 infinite;
+    animation-duration: 5s;
+}
+
+@keyframes anime6 {
+    0%{
+        position: absolute;
+        top: -120px;
+        background-color: aquamarine;
+    }
+    100%{
+        position: absolute;
+        top: 850px;
+        background-color: limegreen;
+    }
+}
+
+#div7{
+    width: 150px;
+    height: 15px;
+    border: 1px solid;
+    border-radius: 20px;
+    rotate: 90deg;
+    position: absolute;
+    left: 740px;
+    animation: anime7 infinite;
+    animation-duration: 4s;
+}
+
+@keyframes anime7 {
+    0%{
+        position: absolute;
+        top: -300px;
+        background-color: lime;
+    }
+    100%{
+        position: absolute;
+        top: 850px;
+        background-color: rgb(252, 141, 14);
+    }
+}
+
+#div8{
+    width: 150px;
+    height: 15px;
+    border: 1px solid;
+    border-radius: 20px;
+    rotate: 90deg;
+    position: absolute;
+    left: 850px;
+    animation: anime8 infinite;
+    animation-duration: 6s;
+}
+
+@keyframes anime8 {
+    0%{
+        position: absolute;
+        top: -200px;
+        background-color: seagreen;
+    }
+    100%{
+        position: absolute;
+        top: 850px;
+        background-color: rgb(36, 36, 151);
+    }
+}
+
+#div9{
+    width: 150px;
+    height: 15px;
+    border: 1px solid;
+    border-radius: 20px;
+    rotate: 90deg;
+    position: absolute;
+    left: 960px;
+    animation: anime9 infinite;
+    animation-duration: 7s;
+}
+
+@keyframes anime9 {
+    0%{
+        position: absolute;
+        top: -100px;
+        background-color: rgb(233, 245, 178);
+    }
+    100%{
+        position: absolute;
+        top: 850px;
+        background-color: rgb(79, 79, 238);
+    }
+}
+
+#div10{
+    width: 150px;
+    height: 15px;
+    border: 1px solid;
+    border-radius: 20px;
+    rotate: 90deg;
+    position: absolute;
+    left: 1100px;
+    animation: anime10 infinite;
+    animation-duration: 4s;
+}
+
+@keyframes anime10 {
+    0%{
+        position: absolute;
+        top: -150px;
+        background-color: rgb(7, 240, 170);
+    }
+    100%{
+        position: absolute;
+        top: 850px;
+        background-color: rgb(65, 151, 36);
+    }
+}
+
+#div11{
+    width: 150px;
+    height: 15px;
+    border: 1px solid;
+    border-radius: 20px;
+    rotate: 90deg;
+    position: absolute;
+    left: 1230px;
+    animation: anime11 infinite;
+    animation-duration: 5s;
+}
+
+@keyframes anime11 {
+    0%{
+        position: absolute;
+        top: -250px;
+        background-color: rgb(240, 81, 7);
+    }
+    100%{
+        position: absolute;
+        top: 850px;
+        background-color: rgb(151, 36, 136);
+    }
+}
+
+#div12{
+    width: 150px;
+    height: 15px;
+    border: 1px solid;
+    border-radius: 20px;
+    rotate: 90deg;
+    position: absolute;
+    left: 1400px;
+    animation: anime12 infinite;
+    animation-duration: 5s;
+}
+
+@keyframes anime12 {
+    0%{
+        position: absolute;
+        top: -60px;
+        background-color: rgb(240, 7, 7);
+    }
+    100%{
+        position: absolute;
+        top: 850px;
+        background-color: rgb(221, 241, 5);
+    }
+}
